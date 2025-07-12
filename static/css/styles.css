@@ -310,6 +310,10 @@ th[data-sort="index"] {
     .details-actions {
         flex-direction: column;
     }
+
+    .uk-heading-medium {
+    	font-size: 0.875rem;
+    }
     
     th, td {
         padding: 0.5rem;
